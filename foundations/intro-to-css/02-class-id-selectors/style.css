@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.shared {
+  background-color: pink ;
+  font-family:Verdana, "DejaVu Sans, sans-serif"
+}
+#Second {
+  color:blue;
+  font-size:36px;
+}
+#Fourth {
+  background-color: lightgreen;
+  font-size:24px;
+  font-weight:bold;
+}
+.Third {
+  font-size:24px;
+}
